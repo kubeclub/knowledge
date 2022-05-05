@@ -10,7 +10,7 @@
 - kube-proxy
 - docker
 
-### 附件组件
+### 附加组件
 - DNS
     - kube-dns
     - coredns
@@ -188,7 +188,7 @@
     - 灰度 shipper
 - kompose
 
-# Kubernetes 周边生态
+# Kubernetes 周边
 ## 客户端
 - 桌面客户端
     - Lens `推荐`
@@ -204,3 +204,93 @@
 - Octant
 - fist
 - konstellate
+
+## 多集群管理
+- kubesphere
+- gardener
+- aptomi
+
+## 大数据与机器学习
+- spark
+- kubeflow
+- mxnet-operator
+- seldon-core
+- ffdl
+
+## 边缘计算
+- kubeedge
+- k3s
+
+## serverless
+- openfaas
+- fass-netes
+- funktion
+- fission
+- kubeless
+- openwhisk
+- iron.io
+- nuclio
+- virtual kubelet
+
+## kubernetes 管理平台
+- kubesphere
+- rancher
+- openshift origin
+- kel
+- IBM bluemix container service
+- 华为 cce
+
+## 命令工具
+- click
+- kubeman
+- kube-prompt
+- kube-sheel
+- kubebot
+- kubectx
+- kubens
+- stackstorm
+- kubectld
+- kubectl aliases
+- vikube
+- kube-ps1
+- kube-tmux
+- kubensx
+- kubetail
+- stern
+- kubeval
+- kube yaml validations
+- ksort
+- ksd
+- kubectl-service-plugin
+- kustomize
+- kube-score
+- kubespy
+- kube-capacity
+
+## 监控
+- datadog
+- node problem detector
+- eventrouter
+- grafana kubernetes app
+- heapster 
+- kubernetes operational view
+- kubewatch
+- prometheus
+- Thanos
+- loki
+- sysdig monitoring
+- weave scope
+- cockpit
+- searchlight
+- ingressmonitorcontroller
+
+## 测试
+- k8s-testsuite
+- test-infra
+- sonobuoy
+- powerfulseal
+- kubesquash
+- kubectl-debug
+- kboom
+- chaosblade
+
